@@ -16,4 +16,4 @@ max $\sum^{n}_{i=1}x_iv_i$, sob restrição $\sum^{n}_{i=1}x_iw_i \le W$ onde $x
 
 Nesse caso, considere a variável $x_j$ de maneira que, não existe nenhuma restrição quanto a quantidade máxima do mesmo item a ser alocado.
 
-max $\sum^{n}_{i=1}x_iv_i$, sob restrição $\sum^{n}_{i=1}x_iw_i \le W$ onde $x_j \in \N$.
+max $\sum^{n}_{i=1}x_iv_i$, sob restrição $\sum^{n}_{i=1}x_iw_i \le W$ onde $x_j \in \mathbb{N}$.
